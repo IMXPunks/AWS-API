@@ -1,16 +1,16 @@
 {
       "name": "#8185",
       "description": "The IMX Punks is a collection of 10,000 unique Punks with varying rarity and style. The First algorithmically generated digital collection of diverse Punk NFTs chilling on the Immutable X, a Layer 2 for NFTs on Ethereum. Each character is impeccably designed, thoughtfully picked, and super funky! #PunkItUp",
-      "image_url": "https://gateway.pinata.cloud/ipfs/QmQ5KhMFkAgA1mqdsbrXjQTu9UDGV8rnpdmiPNBiWPFrKf",
-      "Type": "None",
-      "Skin": "None",
-      "Ear": "None",
-      "Head/Hat": "None",
-      "Mouth": "None",
-      "Nose": "None",
+      "image_url": "https://gateway.pinata.cloud/ipfs/QmPM43mTZUrw3i1fzbkCBCaSdYsANsDo1wzem6nm6NXKTn",
+      "Type": "Human",
+      "Skin": "Light",
+      "Ear": "Gold",
+      "Head/Hat": "Crazy Hair Red",
+      "Mouth": "Straight",
+      "Nose": "Normal",
       "Mole": "None",
-      "Beard": "None",
+      "Beard": "Normal Beard Brown",
       "Mouth Accessories": "None",
-      "Eyewear": "None",
-      "Neck Accessories": "None"
+      "Eyewear": "Lavender VR",
+      "Neck Accessories": "Silver Collar"
 }
